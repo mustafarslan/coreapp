@@ -1,2 +1,2 @@
 # coreapp
-Simple Application for Angular 5 + NodeJS
+Simple FullStack Application with Angular 5, NodeJS and ExpressJS
